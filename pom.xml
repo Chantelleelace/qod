@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
 
   <name>qod</name>
-  <description>Simple REST Service for storing ansd retrieving quotations</description>
+  <description>Simple REST service for storing and retrieving quotations</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
